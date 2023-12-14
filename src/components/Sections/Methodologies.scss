@@ -1,0 +1,9 @@
+@import "./../../_variables.scss";
+
+.methodology {
+    & > .skill-badge {
+        background-color: $bg-secondary-badge-color !important;
+        color: $text-secondary-badge-color !important;
+        border:1px solid $text-secondary-badge-color;
+    }
+}

@@ -1,0 +1,7 @@
+@import "./../../_variables.scss";
+
+.other-skills {
+    & > .skill-badge {
+        background-color: $bg-primary-badge-color !important;
+    }
+}

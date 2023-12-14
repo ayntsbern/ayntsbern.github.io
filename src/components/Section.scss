@@ -1,0 +1,28 @@
+@import "../_variables.scss";
+
+.section {
+    border: 1px solid $content-border-color;
+    border-radius: 5px;
+    padding: 0.75rem 0.5rem 0.5rem;
+    position: relative;
+}
+
+.header {
+    .title {
+        // font-family: 'Jost', sans-serif;
+        font-family: 'Alumni Sans', serif, sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 2rem;
+        line-height: normal;
+
+        text-wrap: nowrap;
+        color: $content-border-color;
+    }
+
+    position: absolute;
+    top: 0;
+    transform: translate(0, -60%);
+    background: white;
+    padding: 0 5px;
+}

@@ -1,0 +1,67 @@
+@import "../../_variables.scss";
+
+.work-experinces {
+    .company {
+        
+    }
+    .range {
+        font-size: .75rem;
+        color: $link-color;
+        text-wrap: pretty;
+    }
+    .company-block {
+        writing-mode: tb-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+    display: block;
+    }
+
+    .vertical-conection {
+        display: flex;
+        flex-direction: column;
+        flex: 0 1 0%;
+        -webkit-box-align: center;
+        align-items: center;
+    }
+
+    .company-info {
+        border-right: 1px solid $border-color;
+    }
+
+    .circle {
+        display: flex;
+        align-self: baseline;
+        border-style: solid;
+        border-width: 2px;
+        padding: 4px;
+        border-radius: 50%;
+        box-shadow: none;
+        margin: 11.5px 0px;
+        background-color: transparent;
+        border-color: $border-color;
+    }
+
+    @media (min-width:320px) {
+        .work-experience {
+            padding: 0 0;
+        }
+    }
+
+    @media (min-width:600px) {
+        .work-experience {
+            padding: .5rem 1rem;
+        }
+    }
+
+    .line {
+        width: 2px;
+        background-color: $border-color;
+        -webkit-box-flex: 1;
+        flex-grow: 1;
+    }
+
+    li:not(:first-child)>div {
+        background-color: $border-color;
+        border-color: red;
+    }
+}

@@ -1,0 +1,10 @@
+.certificates {
+    li {
+        border-top: unset;
+        border-bottom: unset;
+        border-left: unset;
+    }
+    li:last-child {
+        border: unset;
+    }
+}

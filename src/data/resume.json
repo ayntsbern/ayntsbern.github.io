@@ -1,0 +1,122 @@
+{
+    "basic": {
+        "title": "",
+        "firstName": "Юлия",
+        "lastName": "Якушенкова",
+        "jobTitle": "Java Developer",
+        "experience": "Опыт работы: 4 года",
+        "mobile": "+7 (917) 561-34-21",
+        "email": "y.yakushenkova@ya.ru",
+        "location": "Москва, Россия"
+    },
+    "summary": {
+        "title": "О себе",
+        "info": "<b>Backend-разработчик с 4-х летним опытом</b> работы в IT, из которых 2+ в банковской сфере (B2B). \nВ короткие сроки перешла на стек <b>Java/React</b> с разработки на Salesforce, помогала в обучении коллег из своей и других команд разработке на внутренней платформе. Участвовала в полном цикле разработки бизнес-задач — <b>собирала требования, <i>разрабатывала</i> и автоматизировала тестирование</b> в команде, содержащей <i>исключительно разработчиков</i>. \nВсё что можно атвоматизирвоать — нужно автоматизировать. \nАдепт методолгий TDD и BDD: за качественный код отвечает разработчик, а за продукт — QA, поэтому разработчик должен тестировать сам свой код; разработчик должен не просто выполнять поставленные задачи, но и понимать их бизнес смысл."
+    },
+    "socialNetworks": {
+        "github": "https://github.com/ayntsbern",
+        "twitter": "",
+        "linkedin": "http://linkedin.com/in/yuliya-yakushenkova",
+        "telegram": "https://t.me/ayntsbern",
+        "hh": "https://hh.ru/resume/60affcf1ff0be12b6b0039ed1f66666f4c6c55"
+    },
+    "education": {
+        "title": "Образование",
+        "schools": [
+            {
+                "school": "[МЭИ](https://www.mpei.ru/)",
+                "name": "Информатика и вычислительная техника",
+                "degree": "магистр",
+                "range": "2017 — 2019"
+            },
+            {
+                "school": "[МЭИ](https://www.mpei.ru/)",
+                "name": "Информатика и вычислительная техника",
+                "degree": "бакалавр",
+                "range": "2013 — 2017"
+            }
+        ]
+    },
+    "careerObjectives": {
+        "title": "Карьерные ожидания",
+        "info": "Интересная должность, на которой у меня будет возможность получить новые знания/опыт и использовать уже полученные. А так же иметь возможость максимально реализовать свой творческий/технический потенциал и внести вклад в проект компании. \n\nПредпочтения: гибридный режим работы: в офисе и дома"
+    },
+    "workExperience": {
+        "title": "Опыт работы",
+        "experiences": [
+            {
+                "role": "Java/React Developer",
+                "company": "Deutsche Bank",
+                "summary": "изучила самостоятельно Typescript (React), отвечала за перевод MVP функционала с Salesforce Org на внутреннюю платформу с использованием Java/React, помогала коллегам из своей команды и других команд начать разрабатывать на внутренней платформе \n разработала интеграцию внутренней платформы с Salesforce Org с использованием REST API \nзанималась разработкой адаптивного сайта под мобильное приложение \nначала разработку универсального фреймворка для использования на внутренней платформе на базе библиотеки, выбранной на основе критериев и с учётом бизнес-требований",
+                "keys": "Salesforce, JS",
+                "range": "Март 2022 — Май 2023"
+            },
+            {
+                "role": "Salesforce Developer",
+                "company": "Deutsche Bank",
+                "summary": "настроила Sonar для проекта с автотестами на Java, что позволило сэкономить время членов команды от pre-review кода написанного начинающими разработчиками \nразработала с нуля форму-фреймворк для опроса клиентов в Salesforce (LWC), отвечающую бизнес-требованиям — позволяющую генерировать требуемый опросник с помощью json без прямого участия разработчиков \nразработала решение по выводу из эксплуатации Salesforce Org \nначала обсуждение и проработку решения о переводе клиентского портала из Salesforce на Platform Agnostic с использованием React",
+                "keys": "Salesforce, JS, Jest, Java, Cucumber, BDD, TDD, TeamCity",
+                "range": "Январь 2021 — Март 2022"
+            },
+            {
+                "role": "Salesforce Junior Developer",
+                "company": "Customertimes",
+                "summary": "работала в команде, в которой требовалось постоянная коммуникация и обсуждение бизнес-задач с BA, QA и консультантами Salesforce. \nписала Unit-тесты \nразрабатывала новый функционал REST API, который использовался в мобильном приложении\nразрабатывала функционал, требующего интеграции с Salesforce с использованием стороннего приложения на REST API \nразрабатывала сервис push-уведомлений для платформ iOS и Android с использованием стороннего сервиса из-за ограничений платформы Salesforce, что позволило увеличить количество отправляемых за раз уведомлений. \nразрабатывала web-страниц с использованием фреймворков Lightning components и Lightning Web Components. \nразрабатывала триггеры на Apex для выполнений проверки определенных условий или действия до/после выполнения операций по CUD (create, update, delete)",
+                "keys": "Salesforce, JS",
+                "range": "Август 2019 — Март 2022"
+            }
+        ]
+    },
+    "projects": {
+        "title": "",
+        "projects": []
+    },
+    "certificates": {
+        "title": "Сертификаты",
+        "certificates": [
+            {
+                "name": "Salesforce Certified Platform App Builder",
+                "description": "Для верификации используйте: Yuliya Yakushenkova",
+                "badge": "https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-App-Builder.png",
+                "proof": "https://trailhead.salesforce.com/en/credentials/verification/",
+                "earnedDate": "Apr 2020"
+            },
+            {
+                "name": "Salesforce Certified Platform Developer I",
+                "description": "Для верификации используйте: Yuliya Yakushenkova",
+                "badge": "https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Platform-Developer-I.png",
+                "proof": "https://trailhead.salesforce.com/en/credentials/verification/",
+                "earnedDate": "Nov 2019"
+            }
+        ]
+    },
+    "technicalSkills": {
+        "title": "Технические знания",
+        "skills": [
+            {
+                "skill": "Salesforce",
+                "level": 4.2
+            },
+            {
+                "skill": "Java",
+                "level": 4
+            },
+            {
+                "skill": "TypeScript",
+                "level": 2.5
+            }
+        ]
+    },
+    "otherSkills": {
+        "title": "Технологии",
+        "skills": "Java, Spring Framework, Cucumber, Salesforce, CSS, React, TypeScript, JavaScript, Jest, Clickhouse, Maven"
+    },
+    "methodology": {
+        "title": "Методологии",
+        "skills": "BDD, TDD, Scrum, Agile"
+    },
+    "tools": {
+        "title": "Инструменты разработки",
+        "tools": "TeamCity, Jenkins, IntelliJ IDEA, WebStorm, VSCode, Git, Bash"
+    }
+}
