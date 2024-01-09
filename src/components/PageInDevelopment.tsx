@@ -29,7 +29,7 @@ function PageInDevelopment() {
                     <div className='col-lg-8 align-self-center py-3'>
                         <Content />
                     </div>
-                    <div className="col-lg-1 align-self-center"></div>
+                    <div className="col-lg-1 align-self-center" />
                 </div>
             </div>
         </>
